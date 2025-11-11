@@ -421,7 +421,7 @@ body::before {
 }
 
 .category-card.expanded .test-cases {
-  max-height: 2000px;
+  max-height: 3000px;
 }
 
 .test-case {
